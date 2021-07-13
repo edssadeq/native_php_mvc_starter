@@ -1,0 +1,15 @@
+{
+    "name": "essadeq/14_product_crud_v2",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "edssadeq",
+            "email": "essadeq0701@gmail.com"
+        }
+    ],
+    "require": {}
+}
